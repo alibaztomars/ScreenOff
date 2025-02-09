@@ -92,7 +92,7 @@ Some images about the program.
 - **Project Name:** ScreenOff  
 - **Language:** Python  
 - **License:** [MIT License](LICENSE)  
-- **Author:** [hqmumu]
+- **Author:** alibaztomars
 
 ## Contributing
 
