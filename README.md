@@ -76,16 +76,16 @@ You can convert the application into a standalone **.exe** file using [PyInstall
 
 ## Screenshots
 
-Below are the screenshots for the application (assumed to be placed in the `screenshots` folder):
+Some images about the program.
 
-- **System Tray Icon:**  
-  ![System Tray Icon](screenshots/systray_icon.png)
+- **Program Icon:**  
+  ![Program Icon](screenshots/program_icon.png)
 
 - **Settings Window:**  
   ![Settings Window](screenshots/settings_window.png)
 
-- **Information Window:**  
-  ![Information Window](screenshots/info_window.png)
+- **Indicator:**  
+  ![Indicator](screenshots/indicator.png)
 
 ## Developer Information
 
