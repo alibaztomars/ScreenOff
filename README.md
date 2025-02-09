@@ -37,7 +37,7 @@ A Windows program for turning your monitor off with a button press.
 
 3. **Run the Application:**
     ```bash
-    python ScreenOffApp.py
+    python ScreenOffApp.pyw
     ```
 
 ### Converting to an EXE
@@ -51,7 +51,7 @@ You can convert the application into a standalone **.exe** file using [PyInstall
 
 2. **Generate the EXE:**
     ```bash
-    pyinstaller --onefile --noconsole --icon=icon.ico ScreenOffApp.py
+    pyinstaller --onefile --noconsole --icon=icon.ico ScreenOffApp.pyw
     ```
     - `--onefile`: Generates a single executable file.
     - `--noconsole`: Prevents the console window from opening when the application runs.
