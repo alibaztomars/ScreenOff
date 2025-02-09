@@ -76,25 +76,16 @@ You can convert the application into a standalone **.exe** file using [PyInstall
 
 ## Screenshots
 
-Below are descriptions of the expected screenshots for the application. You can create these images based on the descriptions provided:
+Below are the screenshots for the application (assumed to be placed in the `screenshots` folder):
 
 - **System Tray Icon:**  
-  - **File:** `screenshots/systray_icon.png`  
-  - **Description:**  
-    A minimal icon with a white background. The icon features a simple monitor or power button symbol that represents the ScreenOff application in the system tray.
+  ![System Tray Icon](screenshots/systray_icon.png)
 
 - **Settings Window:**  
-  - **File:** `screenshots/settings_window.png`  
-  - **Description:**  
-    A window titled "Ayarlar" (Settings) with the following elements:
-    - A label "Kısayol Tuşu:" (Hotkey) next to a text entry box displaying the current hotkey (e.g., `f12`).
-    - A "Kaydet" (Save) button to confirm and apply changes.
-    - The design is clean, modern, and user-friendly.
+  ![Settings Window](screenshots/settings_window.png)
 
 - **Information Window:**  
-  - **File:** `screenshots/info_window.png`  
-  - **Description:**  
-    An informational window that appears on the first run. It contains a description of the ScreenOff application, explaining its functionality and usage instructions, with a button (e.g., "Tamam") to dismiss the window.
+  ![Information Window](screenshots/info_window.png)
 
 ## Developer Information
 
