@@ -1,0 +1,5 @@
+pystray
+keyboard
+Pillow
+infi.systray
+requests
